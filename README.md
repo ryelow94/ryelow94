@@ -9,3 +9,5 @@
 https://ryelow94.github.io/Portfolio/
 
 
+## Link to my Resume: 
+https://drive.google.com/file/d/1csU4AShqqGqMqqefh_Ax129IFnjZ5oQ5/view?usp=sharing
