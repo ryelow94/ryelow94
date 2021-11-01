@@ -6,7 +6,7 @@
 - 😄 Pronouns: (He/Him) 
 
 ## Link to my Portfolio: 
-https://ryelow94.github.io/Portfolio/
+https://ryelow94.github.io/react-portfolio/
 
 
 ## Link to my Resume: 
